@@ -4,7 +4,8 @@ A simple Todo web for my learning and practicing purposes.
 
 ## Features
 
-- Add, edit, and delete todos
+- Infinite scroll for pagination todo
+- Add, edit, and delete todos on modal
 - Mark todos as completed
 - Responsive UI styled by TailwindCSS
 
